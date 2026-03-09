@@ -24,10 +24,10 @@ h1#sitetitle{
 
 /*site motto*/
 span#sitemotto{
-  font-size:18px;
+  font-size:20px;
   font-family:tahoma;
   font-style:italic;
-  color:aqua;
+  color:blue;
   text-align:center;
 }
 
